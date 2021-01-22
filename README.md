@@ -7,32 +7,32 @@ It will create the folder, add a Gemfile with some of the gems I mostly use, git
 
 ## Installation 
 Clone using this command or fork the project
-```
-clone https://github.com/elio75006/easy_folder_ruby.git
+```sh
+$ clone https://github.com/elio75006/easy_folder_ruby.git
 ``` 
 If you'r using Oh my Zsh (you can change "gedit" by any text editor)
-```
-gedit ~/.oh-my-zsh/custom/example.zsh
+```sh
+$ gedit ~/.oh-my-zsh/custom/example.zsh
 ```
 or
-```
-gedit ~/.bash_profile
+```sh
+$ gedit ~/.bash_profile
 ```
 then copy paste inside 
-```
+```txt
 alias mkdiruby='ruby ~/the/file/location/easy_folder.rb'
 ```
 You might need to give autorisation to firefox_searcher.rb, if you do:
-```
-cd ~/the/file/location
-chmod -x easy_folder.rb
+```sh
+$ cd ~/the/file/location
+$ chmod -x easy_folder.rb
 ```
 ----------
 
 ## How to use
 It's pretty simple, type: ```mkdiruby``` + the name folder exemple:
-```
-mkdiruby your-folder-name
+```sh
+$ mkdiruby your-folder-name
 ```
 
 ----------
