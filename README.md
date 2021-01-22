@@ -10,7 +10,7 @@ Clone using this command or fork the project
 ```
 clone https://github.com/elio75006/easy_folder_ruby.git
 ``` 
-If you'r using Oh my Zsh
+If you'r using Oh my Zsh (you can change "gedit" by any text editor)
 ```
 gedit ~/.oh-my-zsh/custom/example.zsh
 ```
